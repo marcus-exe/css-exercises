@@ -1,0 +1,24 @@
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.ntxt{
+    color:#000000;
+    background-color: #ff0000;    
+    font-size:  30px;
+    font-weight:500px;
+}
+.ntxt.cooler{
+    font-size: 50px;
+    font-weight:700;
+}
+#bluetxt{
+    color:#0000ff;
+    background-color: #ffffff;
+    font-size: 65px;
+    font-weight:700px;
+}
+#greentxt{
+    color:#000000;
+    background-color:#008000;
+    font-size: 50px;
+    font-weight: 700;
+}
